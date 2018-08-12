@@ -1,0 +1,12 @@
+name: shiny
+title: shiny
+username:
+account: vikramanksingh
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 397993
+bundleId: 1529577
+url: https://vikramanksingh.shinyapps.io/shiny/
+when: 1533942842.1668
+asMultiple: FALSE
+asStatic: FALSE
