@@ -3,7 +3,7 @@ This tool can be used to label images in order to create a structured supervised
 
 The app is built in shiny (a package in R) and is hosted on shinyapps server. 
 
-# Setup
+## Setup
 In order to run this app in your local machine follow the steps - 
 1. Install R and R Studio in your machine. 
 2. Open R Studio. 
@@ -20,7 +20,7 @@ In order to run this app in your local machine follow the steps -
 
 Currently, the app is been made to create a labeled dataset for cat and dog images. This can be modified to label any number of classes and any number of images. 
 
-# The UI of the App
+## The UI of the App
 The UI has a control panel on the left hand side. Currently there are 2 buttons to label the images as Cat or Dog along with a Previous and Next button to roll the images. 
 The right hand side is the main panel which has 3 tabs - 
   Tab 1: This tab will display all the images one by one as you press the Next/Previous button.
